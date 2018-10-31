@@ -1,0 +1,11 @@
+mongo - to run
+show dbs
+use
+db.products.insert
+show collections
+db.products.find()
+db.products.update({"product-name":"car"},{$set:{"price":6}})
+db.products.remove()
+
+
+

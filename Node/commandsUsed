@@ -1,0 +1,6 @@
+commands used :
+npm init
+npm install --save express (--save very imp)
+npm install --save body-parser
+
+whatwg-fetch 

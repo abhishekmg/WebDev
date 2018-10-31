@@ -1,0 +1,16 @@
+git status
+git init
+git add
+git commit -m "...."
+
+
+
+git remote add origin <link>
+git push origin master
+
+=========
+git add -A
+
+git log
+
+git checkout
